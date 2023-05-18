@@ -53,6 +53,7 @@ img {
 .emphasis-link {
   padding: 24px 0 24px 0;
   position: relative;
+  color: #404bbf;
 }
 
 .emphasis::after {
@@ -65,7 +66,6 @@ img {
   border-radius: 2px;
   left: 0;
   bottom: -1px;
-  color: #404BBF;
 }
 .page-header {
   padding-top: 24px;
@@ -88,7 +88,6 @@ img {
 .menu-link {
   padding-top: 24px;
   padding-bottom: 24px;
-  color:#404bbf;
   transition: color var(--transition-duration-and-funk);
 }
 
